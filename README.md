@@ -33,7 +33,7 @@
 
 
 ## Output:
-![Ex-4(2)](https://github.com/easwari21/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/131534979/9a4444f4-a8ed-4588-a1ae-1b585742a237)
+![Ex-4(2)](https://github.com/easwari21/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/131534979/d7c1e2c0-c39d-4ffa-b197-dd773e2fe0a1)
 
 ### Name:Easwari M
 ### Register Number:23006280
