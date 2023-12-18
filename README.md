@@ -1,4 +1,6 @@
-![EX NO 4]SIMULATION OF POLAR 3D PRINTER MACHINE 
+[EX NO 4]
+
+SIMULATION OF POLAR 3D PRINTER MACHINE 
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
