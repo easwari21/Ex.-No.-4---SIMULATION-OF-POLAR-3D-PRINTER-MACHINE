@@ -1,6 +1,4 @@
-![EX NO 4](https://github.com/easwari21/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/131534979/8f973bf2-cef9-48d5-86bd-cd6aaac9be97)# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
-### DATE: 
+![EX NO 4]SIMULATION OF POLAR 3D PRINTER MACHINE 
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
